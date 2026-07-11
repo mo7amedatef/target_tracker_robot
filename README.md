@@ -379,7 +379,7 @@ sudo apt install -y git python3-pip python3-venv \
 
 ```bash
 cd ~
-git clone https://github.com/<your-username>/target_track_robot.git
+git clone https://github.com/mo7amedatef/target_track_robot.git
 cd target_track_robot
 ```
 
