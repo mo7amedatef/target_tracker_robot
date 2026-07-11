@@ -1,0 +1,9 @@
+# target_track_robot - Required libraries
+# Note: opencv-contrib-python already bundles opencv-python; do NOT install both together
+opencv-contrib-python>=4.9.0.80
+numpy>=1.26.0,<2.0.0
+pyserial>=3.5
+
+# Development and testing only (not needed on the robot at runtime)
+pytest>=8.0.0
+pytest-cov>=5.0.0
